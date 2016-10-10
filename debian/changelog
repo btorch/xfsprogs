@@ -1,3 +1,9 @@
+xfsprogs (4.3.0-1rax0) stable; urgency=medium
+
+  * Backporting to precise/Trusty from 4.3.0+nmu1ubuntu1 release
+
+ -- Marcelo Martins <btorch@gmail.com>  Mon, 10 Oct 2016 16:00:00 +0000
+
 xfsprogs (4.3.0+nmu1ubuntu1) xenial; urgency=medium
 
   * Enable blkid in d-i, by dropping explicitly passed configure option
