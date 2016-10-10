@@ -1,4 +1,4 @@
-xfsprogs (4.3.0-1rax0) precise,trusty; urgency=medium
+xfsprogs (4.3.0-1rax0) stable; urgency=medium
 
   * Backporting to precise/Trusty from 4.3.0+nmu1ubuntu1 release
 
